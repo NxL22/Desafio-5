@@ -24,7 +24,7 @@ body {
 
 #Contacto form label {
   font-weight: 500;
-  color: #373a3c;
+  color:cyan;
 }
 
 @media (max-width: 768px) {
@@ -42,18 +42,34 @@ body {
   height: 100%;
   opacity: 80%;
 }
+/*texto de la carta*/
+.card-text{
+  font-family:'Raleway', sans-serif;
+}
+/*titulo de la  carta*/
+.card-title{
+  font-family:'Raleway', sans-serif;
+}
+/*carita feliz en el "acerca de mi"*/
 .carita{
   color: red;
   font-size: larger;
 }
+/*pie de pagina*/
 .footer{
   font-family: cursive;
 }
+/*pregunta en la caja de contacto*/
 .pregunta{
   font-size: 20px;
   font-family: cursive;
 }
+/*respuesta en la caja de contacto*/
 .respuesta{
   font-size: 13px;
   font-family: cursive;
+}
+/*titulo del formulario de mensajes*/
+.contactame{
+  color: cyan;
 }
