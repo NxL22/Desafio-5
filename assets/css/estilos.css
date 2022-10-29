@@ -35,3 +35,6 @@ body {
 .icon{
   font-size: 100px;
 }
+.card{
+  height: 100%;
+}
