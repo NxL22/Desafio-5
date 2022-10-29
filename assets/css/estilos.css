@@ -31,10 +31,29 @@ body {
   #Contacto form label {
     font-weight: 400;
   }
-}
+}  
+/*iconos de las tablas*/
 .icon{
   font-size: 100px;
+  color: cyan;
 }
+/*cartas de mis trabajos mas recientes*/
 .card{
   height: 100%;
+  opacity: 80%;
+}
+.carita{
+  color: red;
+  font-size: larger;
+}
+.footer{
+  font-family: cursive;
+}
+.pregunta{
+  font-size: 20px;
+  font-family: cursive;
+}
+.respuesta{
+  font-size: 13px;
+  font-family: cursive;
 }
